@@ -2,8 +2,6 @@
 //
 
 #include "pch.h"
-#include <iostream>
-#include <Windows.h>
 
 const char DEAD =  ' ';
 const char ALIVE = 'X';
